@@ -1,2 +1,2 @@
 # KaggleExerciseDataScienceProjects
-This repository contains kaggle datascience exercise files if interested in learning datascience
+This repository contains kaggle datascience exercise files. If interested in learning datascience , deinitely check them out
